@@ -2,7 +2,7 @@
 
 from Veiculo import Veiculo
 
-meuCarroDahora = Veiculo('Fiat', '147', 'Amarelo', 0)
+meuCarroDahora = Veiculo('Onix', '120', 'Branco', 0)
 
 # Exibindo o meu carro dahora
 print('\n\t\t\t -- Meu Carro Dahora -- \n')
@@ -22,5 +22,5 @@ for i in range(0,200):
     meuCarroDahora.frear()
 
 # Exibindo o meu carro dahora freado
-print('\n\t\t\t -- Meu Carro Dahora Freado --\n')
-print(meuCarroDahora)
+# print('\n\t\t\t -- Meu Carro Dahora Freado --\n')
+# print(meuCarroDahora)
